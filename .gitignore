@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 로그 파일
+*.log
+app.log
+
+# 임시 파일
+uploads/
+results/
+*.tmp
+*.temp
+
+# 환경변수
+.env
+
+# 키
+pwd.py
+supabase.ipynb
+*.ipynb
